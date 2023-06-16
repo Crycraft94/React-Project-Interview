@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    height: 100%;
+    min-height: 100vh;
+    background-color: #728aa936;
+}
+.p-sortable-column{
+    background-color: #2B3440 !important;
+    color: #a7bddc !important;
+}
+.p-sortable-column-icon svg{
+    color: rgb(0, 60, 255);
+}
